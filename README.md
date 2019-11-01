@@ -1,15 +1,15 @@
 this is loan and interest related task.
 ## Description About files and folders
 
-1. inside src , we have 
-    a.[components] - this is handling all the react components
-      ---[init] folder the start point of the components, in this component i am `          importing userInput and result component information.
-      ---[userInput] folder, TextBox.js is dymanic component for creating the textbox
-      ---[slider] folder, responsibe for the slider
+1. inside src , we have <br />
+    a.[components] - this is handling all the react components <br />
+      ---[init] folder the start point of the components, in this component i am          importing userInput and result component information.<br />
+      ---[userInput] folder, TextBox.js is dymanic component for creating the textbox<br />
+      ---[slider] folder, responsibe for the slider <br />
 
-    b.[config]- here inital state, whatever requirement, thar is fullfilling, like amount 500 to 5000 etc
-    c.[service]: here some major functions , like localhost related and API related
-    d. [store] : here Redux related work, like  state, reducer , store infomation
+    b.[config]- here inital state, whatever requirement, thar is fullfilling, like amount 500 to 5000 etc <br />
+    c.[service]: here some major functions , like localhost related and API related <br />
+    d. [store] : here Redux related work, like  state, reducer , store infomation <br />
 
 ## Available Scripts
 
