@@ -1,0 +1,9 @@
+.main-text {
+    display: flex;
+    margin: auto;
+    text-align: left;
+    justify-content: center;
+}
+.t-box-div {
+    padding: 10px;
+}

@@ -1,0 +1,9 @@
+.item-output {
+    display: flex;
+    margin-right: 20px;
+}
+.output {
+    display: flex;
+    justify-content: center;
+    background: aqua;
+}
